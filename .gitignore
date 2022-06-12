@@ -35,3 +35,12 @@ out/
 
 ### VS Code ###
 .vscode/
+
+#yml 파일
+application-db.yml
+application-local.yml
+application-email.yml
+application-oauth.yml
+application-prod.yml
+application-dev.yml
+application-real-db.yml
